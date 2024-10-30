@@ -1,0 +1,84 @@
+.detect_head{
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    font-variant-caps: small-caps;
+    padding-bottom: 9px;
+    color: #19b4e6;
+    padding-top: 50px;
+}
+
+
+.detect_container{
+
+        text-align: center;
+        margin: auto;
+        width: 70%;
+        height: 100%;
+        background: #827f7f;
+        border-radius: 15px;
+        border: groove;
+        z-index: 999;
+        position: relative;
+
+}
+
+.detect_form{
+
+        width: 98%;
+}
+
+.detect_country_name {
+        font-size: large;
+        margin-top: -4px;
+        color: white;
+}
+
+#adminmenu .toplevel_page_Mr_Blocker a {
+
+        color: skyblue !important;
+        font-style: italic;
+}
+
+.detect_check{
+    width: 22px !important;
+    height: 22px !important;
+    background-color: currentColor !important;
+    margin: auto !important;
+}
+.detect_submit{
+
+    background-color: #1e8cbe !important;
+    margin: auto !important;
+    width: 200px !important;
+    height: 40px !important;
+    border-radius: 19px !important;
+    border-left-color: blue !important;
+    border-right-color: blue !important;
+    color: white !important;
+    font-family: fantasy !important;
+    font-size: x-large !important;
+}
+
+.detect_head_message{
+
+    text-decoration: overline;
+    color: white;
+}
+.row {
+    border: 1px solid;
+    overflow: hidden;
+    padding: 5px;
+}
+
+.col {
+    border: 1px solid;
+    float: left;
+    padding: 5px;
+    margin-right: 5px;
+}
+.note_detect_head{
+    text-align: center;
+    color: red;
+}
+
